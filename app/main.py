@@ -8,4 +8,4 @@ def read_root():
 
 @app.get("/ping")
 def ping():
-    return {"pong": True}
+    return {"pong ❇️": True}
